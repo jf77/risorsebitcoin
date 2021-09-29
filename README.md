@@ -35,7 +35,7 @@ Partiamo!
 - [**9 - Siti contenitore**](#9---Siti-contenitori-di-risorse-in-italiano-su-Bitcoin)
 - [**10 - Come contribuire alla lista**](#10---Come-contribuire-alla-lista)
 
-
+Andreas antonopolus books-->>
 
 
 
