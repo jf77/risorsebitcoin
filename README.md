@@ -1,8 +1,7 @@
 # risorsebitcoin by Mir
 
 
-La mia lista di RISORSE su Bitcoin IN ITALIANO.
-Quindi, in sostanza, l'idea è che potete anche non conoscere l'inglese (oltre a Bitcoin, wallet, hello, the cat is on the table...) per usare e imparare Bitcoin grazie a queste risorse. E potrete anche rimanere nel belpaese per alcuni servizi.
+Probando cambios en un documento de Github.
 
 Una lista di oggi, per oggi. In continua mutazione.
 
